@@ -11,4 +11,4 @@ Password : 123
 
 User20/123
 
-
+Note: need to update /Users/prasannabajracharya/Desktop/MUM/EA/MyEA/Project/BuyNSell/BuyNSellClient/src/main/resources/application.resources file with password of email to send email from the application
